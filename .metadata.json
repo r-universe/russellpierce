@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "listWithDefaults",
+    "oncran": true
+  },
+  {
+    "package": "mcparallelDo",
+    "oncran": true
+  },
+  {
+    "package": "naptime",
+    "oncran": true
+  }
+]
