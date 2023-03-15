@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "listWithDefaults"]
-	path = listWithDefaults
-	url = https://github.com/russellpierce/listwithdefaults
-	shallow = true
-	registered = true
 [submodule "mcparallelDo"]
 	path = mcparallelDo
 	url = https://github.com/russellpierce/mcparalleldo
+	shallow = true
+	registered = true
+[submodule "listWithDefaults"]
+	path = listWithDefaults
+	url = https://github.com/russellpierce/listwithdefaults
 	shallow = true
 	registered = true
 [submodule "naptime"]

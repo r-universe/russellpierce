@@ -1,10 +1,10 @@
 [
   {
-    "package": "listWithDefaults",
+    "package": "mcparallelDo",
     "oncran": true
   },
   {
-    "package": "mcparallelDo",
+    "package": "listWithDefaults",
     "oncran": true
   },
   {
